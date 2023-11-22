@@ -42,6 +42,10 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
   Sinta-se à vontade para explorar meus repositórios e deixar feedback.
   Espero que encontre algo interessante por aqui! 😊
 <div>
- ![Snake animation](https://github.com/SabrinaVailante/blob/output/github-contribuition-gri-snake.svg)
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabrinaVailante/SabrinaVailante/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SabrinaVailante/SabrinaVailante/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SabrinaVailante/SabrinaVailante/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
   
