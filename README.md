@@ -39,8 +39,14 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaVailante&layout=compact&show_icons=true&theme=dracula" />
 </div>
 
+##
+
   Sinta-se à vontade para explorar meus repositórios e deixar feedback.
+  <br>
   Espero que encontre algo interessante por aqui! 😊
+  
+ ##
+  
 <div>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SabrinaVailante/SabrinaVailante/output/github-contribution-grid-snake-dark.svg">
