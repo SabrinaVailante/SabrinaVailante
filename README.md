@@ -29,7 +29,6 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
   <a href="mailto:sabrinavailante@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge" />
   </a>
-
 </div>
 
 
@@ -42,3 +41,7 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
 
   Sinta-se à vontade para explorar meus repositórios e deixar feedback.
   Espero que encontre algo interessante por aqui! 😊
+<div>
+ ![Snake animation](https://github.com/SabrinaVailante/blob/output/github-contribuition-gri-snake.svg)
+</div>
+  
