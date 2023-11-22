@@ -22,10 +22,15 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
  
  ##  
 <div style="display: flex;">
-  <a href="https://www.linkedin.com/in/sabrina-vailante/" target=_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  <a href="https://www.instagram.com/sabrinavailante/" target=_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"/>
+  <a href="https://www.linkedin.com/in/sabrina-vailante/" target=_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href="https://www.instagram.com/sabrinavailante/" target=_blank">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target="_blank"/>
+  <a href="mailto:sabrinavailante@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge" />
+  </a>
 
-  - 📫 [Email](mailto:sabrinavailante@hotmail.com) 
+</div>
 
 
 ## Estatísticas do GitHub
@@ -34,18 +39,6 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
   <img style="margin-right: 50px;" height="180" src="https://github-readme-stats.vercel.app/api?username=SabrinaVailante&show_icons=true&theme=dracula" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaVailante&layout=compact&show_icons=true&theme=dracula" />
 </div>
-
-
- 
-
-## Como Entrar em Contato
-
-
-
-
-
-
-  
 
   Sinta-se à vontade para explorar meus repositórios e deixar feedback.
   Espero que encontre algo interessante por aqui! 😊
