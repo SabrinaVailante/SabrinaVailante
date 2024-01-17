@@ -35,7 +35,7 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
 ## Estatísticas do GitHub
 
 <div style="display: flex;">
-  <img style="margin-right: 50px;" height="180" src="https://github-readme-stats.vercel.app/api?username=SabrinaVailante&show_icons=true&theme=dracula" />
+  <img style="margin-rigth:50px;" height="180" src="https://github-readme-stats.vercel.app/api?username=SabrinaVailante&show_icons=true&theme=radical"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaVailante&layout=compact&show_icons=true&theme=dracula" />
 </div>
 
