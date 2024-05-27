@@ -17,7 +17,8 @@ Apaixonada por tecnologia e sua capacidade de tornar nossas vidas mais eficiente
  <img align="center" alt="Bia-vue" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
  <img align="center" alt="Bia-postgres" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
  <img align="center" alt="Bia-dart" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
- <img align="center" alt="Bia-flutter" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />        
+ <img align="center" alt="Bia-flutter" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+ <img align="center" alt="Bia-angula" heigth="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />  
  </div> 
  
  ##  
